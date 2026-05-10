@@ -4,7 +4,7 @@
 
 **AI cockpit for solo CTOs and tech teams. Multi-LLM cross-review.**
 
-[Join the waitlist →](https://aubia.dev) | [Community discussions →](https://github.com/aubia-dev/community) | [@aubia_dev](https://x.com/aubia_dev) | [LinkedIn](https://www.linkedin.com/company/aubia)
+[Join the waitlist →](https://aubia.dev) | [Community discussions →](https://github.com/aubia-dev/community) | [@aubia_dev](https://x.com/aubia_dev) | [LinkedIn](https://www.linkedin.com/company/aubia-dev)
 
 [![Phase](https://img.shields.io/badge/Phase-0%20Waitlist-blue)](https://aubia.dev) [![Beta](https://img.shields.io/badge/Beta%200.1-Q3%202026-orange)](https://github.com/aubia-dev/community) [![Made in](https://img.shields.io/badge/Made%20in-Paris%20FR-blueviolet)](https://aubia.dev)
 
@@ -33,7 +33,7 @@ Aubia orchestrates your AI coding agents (Claude Code, Codex CLI, Mistral CLI, G
 - **Waitlist** : <https://aubia.dev>
 - **Community** : [aubia-dev/community](https://github.com/aubia-dev/community)
 - **X** : [@aubia_dev](https://x.com/aubia_dev)
-- **LinkedIn** : [Aubia](https://www.linkedin.com/company/aubia)
+- **LinkedIn** : [Aubia](https://www.linkedin.com/company/aubia-dev)
 - **Press, partnerships** : `contact@aubia.dev`
 - **Privacy, GDPR** : `dpo@aubia.dev`
 
