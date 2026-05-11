@@ -40,4 +40,4 @@ Aubia orchestrates your AI coding agents (Claude Code, Codex CLI, Mistral CLI, G
 - **Press, partnerships** : `contact@aubia.dev`
 - **Privacy, GDPR** : `dpo@aubia.dev`
 
-Aubia is built in public by Mike EL GHALI, from Paris. A dedicated tech stack post will follow.
+Aubia is built by Mike EL GHALI, from Paris. A dedicated tech stack post will follow.
