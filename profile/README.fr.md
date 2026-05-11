@@ -40,4 +40,4 @@ Aubia orchestre vos agents IA de codage (Claude Code, Codex CLI, Mistral CLI, Ge
 - **Presse, partenariats** : `contact@aubia.dev`
 - **Vie privée, RGPD** : `dpo@aubia.dev`
 
-Aubia est construit en public par Mike EL GHALI, depuis Paris. Un article de blog dédié à la stack technique suivra.
+Aubia est construit par Mike EL GHALI, depuis Paris. Un article de blog dédié à la stack technique suivra.
