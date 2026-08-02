@@ -6,10 +6,10 @@
 
 [Rejoindre la liste d'attente →](https://aubia.dev) | [Journal de bord →](https://aubia.dev/fr/blog) | [Discussions communautaires →](https://github.com/aubia-dev/community) | [@aubia_dev](https://x.com/aubia_dev) | [LinkedIn](https://www.linkedin.com/company/aubia-dev)
 
-![Phase 0 Waitlist](https://img.shields.io/badge/Phase%200-Waitlist-violet?style=flat-square)
-![Beta 0.1 Q3 2026](https://img.shields.io/badge/Beta%200.1-Q3%202026-orange?style=flat-square)
-![Made in Paris FR](https://img.shields.io/badge/Made%20in-Paris%20FR-blue?style=flat-square)
-![X Follow](https://img.shields.io/twitter/follow/aubia_dev?style=flat-square&logo=x)
+![Phase 0 liste d'attente](https://img.shields.io/badge/Phase%200-Liste%20d%27attente-8839ef?style=flat-square&labelColor=1e1e2e)
+![Beta 0.1 troisième trimestre 2026](https://img.shields.io/badge/Beta%200.1-T3%202026-1e66f5?style=flat-square&labelColor=1e1e2e&logo=apple&logoColor=cdd6f4)
+![Conçu à Paris](https://img.shields.io/badge/Con%C3%A7u%20%C3%A0-Paris%20FR-45475a?style=flat-square&labelColor=1e1e2e)
+[![X @aubia_dev](https://img.shields.io/badge/%40aubia__dev-1e1e2e?style=flat-square&logo=x&logoColor=cdd6f4)](https://x.com/aubia_dev)
 
 ---
 
