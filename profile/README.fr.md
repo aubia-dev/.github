@@ -1,8 +1,9 @@
-# aubia-dev
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/aubia-github-header-fr-dark.png">
+  <img alt="Aubia fait relire chaque agent IA par un autre." src="assets/aubia-github-header-fr-light.png">
+</picture>
 
 [English](README.md) | **Français**
-
-**Aubia fait relire chaque agent IA par un autre.**
 
 [Rejoindre la liste d'attente →](https://aubia.dev) | [Journal de bord →](https://aubia.dev/fr/blog) | [Discussions communautaires →](https://github.com/aubia-dev/community/discussions) | [@aubia_dev](https://x.com/aubia_dev) | [LinkedIn](https://www.linkedin.com/company/aubia-dev)
 

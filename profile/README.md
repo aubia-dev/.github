@@ -1,8 +1,9 @@
-# aubia-dev
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/aubia-github-header-en-dark.png">
+  <img alt="Aubia makes your AI agents review each other." src="assets/aubia-github-header-en-light.png">
+</picture>
 
 **English** | [Français](README.fr.md)
-
-**Aubia makes your AI agents review each other.**
 
 [Join the waitlist →](https://aubia.dev) | [Devlog →](https://aubia.dev/en/blog) | [Community discussions →](https://github.com/aubia-dev/community/discussions) | [@aubia_dev](https://x.com/aubia_dev) | [LinkedIn](https://www.linkedin.com/company/aubia-dev)
 
