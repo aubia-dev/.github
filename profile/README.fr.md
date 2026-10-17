@@ -7,10 +7,10 @@
 
 [Rejoindre la liste d'attente →](https://aubia.dev) | [Journal de bord →](https://aubia.dev/fr/blog) | [Discussions communautaires →](https://github.com/aubia-dev/community/discussions) | [@aubia_dev](https://x.com/aubia_dev) | [LinkedIn](https://www.linkedin.com/company/aubia-dev)
 
-![Phase 0 liste d'attente](https://img.shields.io/badge/Phase%200-Liste%20d%27attente-8839ef?style=flat-square&labelColor=1e1e2e)
-![Bêta 0.1 macOS Apple Silicon](https://img.shields.io/badge/B%C3%AAta%200.1-macOS%20Apple%20Silicon-1e66f5?style=flat-square&labelColor=1e1e2e&logo=apple&logoColor=cdd6f4)
-![Conçu à Paris](https://img.shields.io/badge/Con%C3%A7u%20%C3%A0-Paris%20FR-45475a?style=flat-square&labelColor=1e1e2e)
-[![X @aubia_dev](https://img.shields.io/badge/%40aubia__dev-1e1e2e?style=flat-square&logo=x&logoColor=cdd6f4)](https://x.com/aubia_dev)
+![Phase 0 liste d'attente](https://img.shields.io/badge/Phase%200-Liste%20d%27attente-9D8AFA?style=flat-square&labelColor=15171C)
+![Bêta 0.1 macOS Apple Silicon](https://img.shields.io/badge/B%C3%AAta%200.1-macOS%20Apple%20Silicon-F3A4B7?style=flat-square&labelColor=15171C&logo=apple&logoColor=EEF0F3)
+![Conçu à Paris](https://img.shields.io/badge/Con%C3%A7u%20%C3%A0-Paris-FEBF94?style=flat-square&labelColor=15171C)
+[![X @aubia_dev](https://img.shields.io/badge/%40aubia__dev-15171C?style=flat-square&logo=x&logoColor=EEF0F3)](https://x.com/aubia_dev)
 
 Le moyen le plus simple de ne pas voir une erreur, c'est d'être celui qui l'a écrite, et c'est tout aussi vrai pour un agent IA. Aubia est la couche au-dessus de Claude Code, Codex CLI et Mistral qui croise leurs relectures : chaque sortie d'un agent est relue par le modèle d'un autre provider avant de vous parvenir.
 

@@ -7,10 +7,10 @@
 
 [Join the waitlist →](https://aubia.dev) | [Devlog →](https://aubia.dev/en/blog) | [Community discussions →](https://github.com/aubia-dev/community/discussions) | [@aubia_dev](https://x.com/aubia_dev) | [LinkedIn](https://www.linkedin.com/company/aubia-dev)
 
-![Phase 0 Waitlist](https://img.shields.io/badge/Phase%200-Waitlist-8839ef?style=flat-square&labelColor=1e1e2e)
-![Beta 0.1 macOS Apple Silicon](https://img.shields.io/badge/Beta%200.1-macOS%20Apple%20Silicon-1e66f5?style=flat-square&labelColor=1e1e2e&logo=apple&logoColor=cdd6f4)
-![Made in Paris FR](https://img.shields.io/badge/Made%20in-Paris%20FR-45475a?style=flat-square&labelColor=1e1e2e)
-[![X @aubia_dev](https://img.shields.io/badge/%40aubia__dev-1e1e2e?style=flat-square&logo=x&logoColor=cdd6f4)](https://x.com/aubia_dev)
+![Phase 0 Waitlist](https://img.shields.io/badge/Phase%200-Waitlist-9D8AFA?style=flat-square&labelColor=15171C)
+![Beta 0.1 macOS Apple Silicon](https://img.shields.io/badge/Beta%200.1-macOS%20Apple%20Silicon-F3A4B7?style=flat-square&labelColor=15171C&logo=apple&logoColor=EEF0F3)
+![Made in Paris](https://img.shields.io/badge/Made%20in-Paris-FEBF94?style=flat-square&labelColor=15171C)
+[![X @aubia_dev](https://img.shields.io/badge/%40aubia__dev-15171C?style=flat-square&logo=x&logoColor=EEF0F3)](https://x.com/aubia_dev)
 
 The simplest way to miss a mistake is to be the one who wrote it, and it holds just as true for an AI agent. Aubia is the layer above Claude Code, Codex CLI and Mistral that cross-checks their work: every agent output is reviewed by a model from another provider before it reaches you.
 
