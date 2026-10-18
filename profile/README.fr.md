@@ -3,7 +3,7 @@
 
 [English](README.md) | **Français**
 
-[Rejoindre la liste d'attente →](https://aubia.dev) | [Journal de bord →](https://aubia.dev/fr/blog) | [Discussions communautaires →](https://github.com/aubia-dev/community/discussions) | [@aubia_dev](https://x.com/aubia_dev) | [LinkedIn](https://www.linkedin.com/company/aubia-dev)
+[Rejoindre la liste d'attente →](https://aubia.dev/fr) | [Journal de bord →](https://aubia.dev/fr/blog) | [Discussions communautaires →](https://github.com/aubia-dev/community/discussions) | [@aubia_dev](https://x.com/aubia_dev) | [LinkedIn](https://www.linkedin.com/company/aubia-dev)
 
 ![Phase 0 liste d'attente](https://img.shields.io/badge/Phase%200-Liste%20d%27attente-9D8AFA?style=flat-square&labelColor=15171C)
 ![Bêta 0.1 macOS Apple Silicon](https://img.shields.io/badge/B%C3%AAta%200.1-macOS%20Apple%20Silicon-F3A4B7?style=flat-square&labelColor=15171C&logo=apple&logoColor=EEF0F3)

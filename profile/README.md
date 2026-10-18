@@ -3,7 +3,7 @@
 
 **English** | [Français](README.fr.md)
 
-[Join the waitlist →](https://aubia.dev) | [Devlog →](https://aubia.dev/en/blog) | [Community discussions →](https://github.com/aubia-dev/community/discussions) | [@aubia_dev](https://x.com/aubia_dev) | [LinkedIn](https://www.linkedin.com/company/aubia-dev)
+[Join the waitlist →](https://aubia.dev/en) | [Devlog →](https://aubia.dev/en/blog) | [Community discussions →](https://github.com/aubia-dev/community/discussions) | [@aubia_dev](https://x.com/aubia_dev) | [LinkedIn](https://www.linkedin.com/company/aubia-dev)
 
 ![Phase 0 Waitlist](https://img.shields.io/badge/Phase%200-Waitlist-9D8AFA?style=flat-square&labelColor=15171C)
 ![Beta 0.1 macOS Apple Silicon](https://img.shields.io/badge/Beta%200.1-macOS%20Apple%20Silicon-F3A4B7?style=flat-square&labelColor=15171C&logo=apple&logoColor=EEF0F3)
