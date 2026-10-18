@@ -20,7 +20,7 @@ Le Mode Opinions vers Plan exécutable soumet une décision technique à plusieu
 
 ## BYOK et agents en local
 
-Vous gardez vos abonnements et vos clés Anthropic, OpenAI et Mistral, et Aubia ne revend pas de tokens. Vos clés API sont chiffrées dans le coffre sécurisé de votre OS. Les agents tournent sur votre machine, chacun dans son propre git worktree, et aucun serveur d'Aubia ne voit vos sources.
+Vous gardez vos abonnements et vos clés Anthropic, OpenAI et Mistral, et Aubia ne revend pas de tokens. Vos clés API sont chiffrées avec une clé conservée dans le coffre sécurisé de votre OS. Les agents tournent sur votre machine, chacun dans son propre git worktree, et aucun serveur d'Aubia ne voit vos sources.
 
 ## Feuille de route
 

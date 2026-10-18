@@ -20,7 +20,7 @@ Opinions to Executable Plan Mode submits a technical decision to several models 
 
 ## BYOK and local agents
 
-You keep your Anthropic, OpenAI and Mistral subscriptions and keys, and Aubia never resells tokens. Your API keys are encrypted in your OS keychain. The agents run on your machine, each in its own git worktree, and no Aubia server ever sees your source code.
+You keep your Anthropic, OpenAI and Mistral subscriptions and keys, and Aubia never resells tokens. Your API keys are encrypted with a key stored in your OS keychain. The agents run on your machine, each in its own git worktree, and no Aubia server ever sees your source code.
 
 ## Roadmap
 
