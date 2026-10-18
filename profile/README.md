@@ -10,7 +10,7 @@
 ![Made in Paris](https://img.shields.io/badge/Made%20in-Paris-FEBF94?style=flat-square&labelColor=15171C)
 [![X @aubia_dev](https://img.shields.io/badge/%40aubia__dev-15171C?style=flat-square&logo=x&logoColor=EEF0F3)](https://x.com/aubia_dev)
 
-The simplest way to miss a mistake is to be the one who wrote it, and it holds just as true for an AI agent. Aubia is the layer above Claude Code, Codex CLI and Mistral that makes them cross-review each other: every agent output is reviewed by a model from another provider before it reaches you.
+The easiest way to miss an error is to be the one who wrote it, and it holds just as true for an AI agent. Aubia is the layer above Claude Code, Codex CLI and Mistral that makes them cross-review each other: every agent output is reviewed by a model from another provider before it reaches you.
 
 ## Cross-review and Opinions to Executable Plan Mode
 
