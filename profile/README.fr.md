@@ -1,7 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/aubia-github-header-fr-dark.png">
-  <img alt="Aubia fait relire chaque agent IA par un autre." src="assets/aubia-github-header-fr-light.png">
-</picture>
+![Aubia fait relire chaque agent IA par un autre.](assets/aubia-github-header-fr-light.png#gh-light-mode-only)
+![Aubia fait relire chaque agent IA par un autre.](assets/aubia-github-header-fr-dark.png#gh-dark-mode-only)
 
 [English](README.md) | **Français**
 
